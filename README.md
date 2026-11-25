@@ -7,9 +7,7 @@ Passionné par l'informatique et l'infrastructure, ce portfolio présente mes r�
 ---
 
 ### 📂 Mes projets réalisés
-<ul>
-  <li>🖥️ <a href="/Bachirhocine/assemblage-integration-poste-client"><b>Assemblage et intégration d'un poste client</b></a></li>
-  <li>🌐 <a href="/Bachirhocine/installation-configuration-reseau-pme"><b>Installation et configuration du réseau d'une PME</b></a></li>
-  <li>🚀 <a href="/Bachirhocine/deploiement-parc-informatique-startup"><b>Déploiement du parc informatique d'une start-up</b></a></li>
-  <li>🎧 <a href="/Bachirhocine/support-utilisateurs-gestion-incidents"><b>Support aux utilisateurs et gestion des incidents</b></a></li>
-</ul>
+* 🖥️ **[Assemblage et intégration d'un poste client](https://github.com)**
+* 🌐 **[Installation et configuration du réseau d'une PME](https://github.com)**
+* 🚀 **[Déploiement du parc informatique d'une start-up](https://github.com)**
+* 🎧 **[Support aux utilisateurs et gestion des incidents](https://github.com)**
