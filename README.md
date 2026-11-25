@@ -26,5 +26,5 @@ Passionné par l'informatique et l'assistance, j'ai validé une formation de **T
 ---
 
 ### 📫 Contact & Mobilité
-* 🔗 **LinkedIn :** *(Ajoutez votre profil ici)*
+* 🔗 **LinkedIn :** *(https://www.linkedin.com/in/bachirhocine/)
 * 📍 **Zone :** Moselle / Grand Est / Luxembourg (Support / Technicien Systèmes et Réseaux).
