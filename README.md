@@ -12,4 +12,4 @@ Passionné par l'informatique et l'infrastructure, ce portfolio présente mes r�
 * 🚀 **[Déploiement du parc informatique d'une start-up](https://github.com)**
 * 🎧 **[Support aux utilisateurs et gestion des incidents](https://github.com)**
 
-*(Retrouvez le contenu complet et détaillé de votre présentation, de vos compétences techniques et de vos informations de contact dans votre dépôt GitHub).*
+*(Retrouvez le détail complet des compétences techniques, des environnements maîtrisés et des informations de contact directement sur votre dépôt GitHub).*
