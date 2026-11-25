@@ -20,6 +20,8 @@ Passionné par l'informatique et l'assistance, j'ai validé une formation de **T
 * 🚀 **[Déploiement du parc informatique d'une start-up](https://github.com/Bachirhocine/deploiement-parc-informatique-startup)** : Déploiement multi-OS (Windows/Linux) automatisé (XML).
 * 🎧 **[Support aux utilisateurs et gestion des incidents](https://github.com/Bachirhocine/support-utilisateurs-gestion-incidents)** : Tickets N1/N2 sous GLPI, diagnostic Windows 11 et sensibilisation.
 * 🏢 **[Gestion d'un parc informatique au quotidien](https://github.com/Bachirhocine/gestion-parc-informatique-quotidien)** : GLPI 10 sur Debian 12, inventaire automatisé et supervision Nagios.
+* ⚙️ **[Services partagés en entreprise et automatisation PowerShell](https://github.com/Bachirhocine/services-partages-active-directory-automatisation)** : Windows Server 2022 (AD DS, AGDLP, GPO, DHCP/DNS), sauvegardes Veeam et scripts PowerShell.
+
 
 ---
 
